@@ -7,7 +7,7 @@
 - **原项目**：柏宝绘 `ST-BaiBai-Image`（SillyTavern 剧情配图助手）
   - 原作者：**柏柏**（GitHub: [baibai-git](https://github.com/baibai-git)）
   - 原仓库：<https://github.com/baibai-git/ST-BaiBai-Image>
-- **二创作者**：Allay（GitHub: [zcherishy](https://github.com/zcherishy)）
+- **二创作者**：Allay
 - **二创内容**：基于原作者的小猫版（Neko）分支，整理为“预设版”并附带个人预设配置，便于在 SillyTavern 中直接安装使用。
 - **版权说明**：
   - 本扩展的代码、图标、文案等原始部分版权归原作者**柏柏**所有。
